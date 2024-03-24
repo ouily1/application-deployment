@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: titanic
-        image: linogaliana/application-correction:latest
+        image: ouily36/application-correction:latest
         ports:
         - containerPort: 5000
